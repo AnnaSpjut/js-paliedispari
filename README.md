@@ -18,6 +18,10 @@ Dichiariamo chi ha vinto.
 
 4. promt per chidere all'utente pari o dispari
 5. promt per chiedere all'utente un numero 
-6. function con MathRandom per generare un num computer
+6. function con MathRandom per generare un num random computer
+7. const somma con parseInt
+8. if per capire se la somma è pari o dispari
+9. if per sapere se il risultato pari o dispari corridponde con la scelta dell'utente
+10. messaggio vincitore
 
 
