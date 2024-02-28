@@ -13,5 +13,10 @@ Dichiariamo chi ha vinto.
 
 ## Svolgimento
 1. promt - chidere all'utente una parola palindroma
-2. function con if e reverse per verificare la parola
-3. console log per vedere se funziona
+2. function palindroma con for e if per verificare la parola
+3. outut innerHTML per stampa in pagina il messaggio
+
+4. promt per chidere all'utente pari o dispari
+5. promt per chiedere all'utente un numero 
+
+
