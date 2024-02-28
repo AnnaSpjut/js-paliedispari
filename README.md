@@ -18,5 +18,6 @@ Dichiariamo chi ha vinto.
 
 4. promt per chidere all'utente pari o dispari
 5. promt per chiedere all'utente un numero 
+6. function con MathRandom per generare un num computer
 
 

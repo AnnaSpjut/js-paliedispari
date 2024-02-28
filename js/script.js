@@ -27,26 +27,13 @@ const numUser = prompt('Inserisci un numero tra 1 e 5')
 console.log(pariDispari, numUser)
 
 const numComputer = getRandomNumber('min, max');
-const somma = numUser + numComputer;
 console.log(numComputer)
 
 function getRandomNumber(min, max){
   return Math.floor(Math.random() *5);
 }
 
-function somma(numUser, numComputer){
-  if(somma % 2 === 0){
-      result = 'pari'
-    }else{
-      result = 'dispari';
-    }
-    
-    if(result === pariDispari){
-      output2 = 'Hai vinto!'
-    }else{
-      output3 = 'Ha vinto il computer!'
-    }
-};
+
 
 
 
