@@ -2,8 +2,22 @@
 
 
 const parola = prompt('Scrivi una parola')
-console.log(parola)
 
+
+function palindroma(parola){
+  for(let i = 0; i < parola.length / 2; i++){
+    if(parola[i] !== parola[parola.length - i - 1]){
+      return false;
+    }
+  }
+  return true;
+}
+
+if(palindroma(parola)){
+  output.innerHTML = parola + ' ' + 'è una parola palindroma!';
+}else{
+  output.innerHTML = parola + ' ' + ' non è una parola palindroma!';
+}
 
 
 // PARI E DISPARI
